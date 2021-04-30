@@ -1,0 +1,67 @@
+{
+  "Employee": [
+    {
+      "id": 1,
+      "name": "Jhon",
+      "phone": "9999999999",
+      "city": "Pune",
+      "address_line1": "ABC road",
+      "address_line2": "XYZ building",
+      "postal_code": "12455"
+    },
+    {
+      "id": 2,
+      "name": "Jacob",
+      "phone": "AZ99A99PQ9",
+      "city": "Pune",
+      "address_line1": "PQR road",
+      "address_line2": "ABC building",
+      "postal_code": "13455"
+    },
+    {
+      "id": 3,
+      "name": "Ari",
+      "phone": "145458522",
+      "city": "Mumbai",
+      "address_line1": "ABC road",
+      "address_line2": "XYZ building",
+      "postal_code": "12455"
+    },
+    {
+      "id": 4,
+      "name": "q",
+      "phone": "",
+      "city": "",
+      "address_line1": "",
+      "address_line2": "",
+      "postal_code": ""
+    },
+    {
+      "id": 5,
+      "name": "ss",
+      "phone": "",
+      "city": "",
+      "address_line1": "",
+      "address_line2": "",
+      "postal_code": ""
+    },
+    {
+      "id": 6,
+      "name": "ss",
+      "phone": "",
+      "city": "",
+      "address_line1": "",
+      "address_line2": "",
+      "postal_code": ""
+    },
+    {
+      "id": 7,
+      "name": "Tanmay Ingole",
+      "phone": 579315259,
+      "city": "Gliwice",
+      "address_line1": "Kochanowskiego 37",
+      "address_line2": "",
+      "postal_code": "44-100"
+    }
+  ]
+}

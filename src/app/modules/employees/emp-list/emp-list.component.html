@@ -1,0 +1,28 @@
+<table class="table table-bordered">
+        <tbody>
+                <tr>
+                        <th>Id</th>
+                        <th>Name</th>
+                        <th>Phone</th>
+                        <th>City</th>
+                        <th>Address1</th>
+                        <th>Address2</th>
+                        <th>Postal Code</th>
+                        <th>Edit</th>
+                </tr>
+                <tr *ngFor="let emp of allEmployee">
+                        <td>{{emp.id}}</td>
+                        <td>{{emp.name}}</td>
+                        <td>{{emp.phone}}</td>
+                        <td>{{emp.city}}</td>
+                        <td>{{emp.address_line1}}</td>
+                        <td>{{emp.address_line2}}</td>
+                        <td>{{emp.postal_code}}</td>
+                        <td>
+                                <a href="#" class="mr-3" title="Edit" (click)="onEditEmp(emp)">
+                                        <i class="fas fa-pencil-alt text-success"></i>
+                                </a>
+                        </td>
+                </tr>
+        </tbody>
+</table>
